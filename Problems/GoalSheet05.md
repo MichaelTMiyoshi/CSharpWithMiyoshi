@@ -2,7 +2,7 @@
 
 Also
 
-# Goal Sheet 08, Goal Sheet 09, and Goal Sheet 13
+# Goal Sheet 08, Goal Sheet 09, and Goal Sheet 12
 
 Catch up goal sheet.  I use this goal sheet (whichever number) as a time when students can catch up or get ahead as they need.  There are no mustard goal sheets, but as a student of mine once noted, students should relish all goal sheets.  (Thanks Connor.)
 
