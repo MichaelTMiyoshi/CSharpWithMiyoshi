@@ -35,4 +35,4 @@ Create a maze.  The maze looks like the picture below, but you need not have a g
 
 We have not yet covered loops, so you must use nested branching.  Be aware that there are three or more levels of nesting.  Also, make sure that the user is able to take every path to the very end (even if it is a dead end).
 
-![picture](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpMaze.png)
+![picture](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/tree/main/images)
