@@ -12,7 +12,7 @@ Start with the example code given and create your own math problems.  Make sure 
 
 Generate random numbers.  You want to simulate a 6-sided die (numbers 1-6), a 12-sided die.  Also generate a random double between 0.0 and 5.0 (inclusive), and a random character of UPPER CASE letters (A-Z, inclusive).  Your output should be labeled and have only one random output per line.  (You should have 4 lines of output.)
 
-**Problem GS02-04 (More random stuff) ([pair programming](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/PairProgramming.md))**
+**Problem GS02-04 (More random stuff) ([pair programming](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/PairProgramming.md))**
 
 Write a program that lets the user choose the limits of random numbers and characters.  First, find a random double between 0.0 and 1.0 (exclusive of 1.0).  Then, have the user choose upper and lower values for a random int, a random double, and a random character.  You decide whether the maximum values will be included or excluded in the range.  Label the output and output each random item on a separate line.
 
