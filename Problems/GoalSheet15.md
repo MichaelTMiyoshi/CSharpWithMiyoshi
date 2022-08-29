@@ -6,4 +6,4 @@ Here is the link again to the [Williams Game Engine](https://github.com/MichaelT
 
 I hope you enjoyed doing the problems that my students do in their first year of programming in my class.  Programming in C++ is not for the faint of heart, but it gives people the fundamentals of programming in any language.  Which is why I stick with it.  My students who have gone on to be professionals tell me that they value the education they got in their intro class with me.  That is probably the bigger reason I stick with it.  That is why I wrote _[C++ with Miyoshi](https://amzn.to/3bQuePT)_.  (I suppose you could call this an ad.)
 
-Here is a link to my [advanced goal sheet](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Documents/GoalsSheetAdvanced.docx).  Just download it and edit it in Word.
+Here is a link to my [advanced goal sheet](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/Documents/GoalsSheetAdvanced.docx).  Just download it and edit it in Word.
