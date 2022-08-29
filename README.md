@@ -5,7 +5,7 @@ I provide my book, <a href="" target="_blank"><i>C# with Miyoshi</i></a>, to the
 
 This repo will change and grow in time with feedback from my students and other readers.
 
-At first, it will have a few Visual Studio projects that people can clone.  It will then include programming [problems](https://github.com/MichaelTMiyoshi/CSharpwithMiyoshi/tree/master/Problems) and projects and something I like to call [competency tests](https://github.com/MichaelTMiyoshi/CSharpwithMiyoshi/tree/master/CompetencyTests).  I also plan to include code snippets sometime.  Who knows where it will go from there?
+At first, it will have a few Visual Studio projects that people can clone.  It will then include programming [problems](https://github.com/MichaelTMiyoshi/CSharpwithMiyoshi/tree/master/Problems) and projects and something I like to call [competency tests](https://github.com/MichaelTMiyoshi/CSharpwithMiyoshi/tree/master/CompetencyTests).  I also have a repo with all the [example code](https://github.com/MichaelTMiyoshi/CSharpSampleCode) that is in the book .  Who knows where it will go from there?
 
 ### Notes on Integrated Development Environment (IDE)
 I am using [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) 2022. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning/forking when you are running the IDE. When you open the VS 2022, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
