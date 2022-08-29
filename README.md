@@ -1,5 +1,5 @@
 # CSharpWithMiyoshi
-This is the companion repo for my book <a href="" target="_blank"><i>C# with Miyoshi</i></a>.
+This is the companion repo for my book <a href="" target="_blank"><i>C# with Miyoshi</i></a>.  (This whole repo is still a work in progress.  The book is not yet available on Amazon, so the links to the book do not work yet.  There are things that need updating.  And I have a few references to C++, that are there until I get the C# ones done.  But I needed to get it going because school starts soon and I need to have it ready to go even if it is not completely ready to go.)
 
 I provide my book, <a href="" target="_blank"><i>C# with Miyoshi</i></a>, to the students in my class, but to those who are not in my class, the book is available online at either of the above links.  (I suppose you could call this an ad.)
 
