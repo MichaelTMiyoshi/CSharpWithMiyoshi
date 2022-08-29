@@ -1,8 +1,8 @@
 # Goal Sheet 03
 
-**Problem GS03-01 ([RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md) start)**
+**Problem GS03-01 ([RPG](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/RPG_Requirements.md) start)**
 
-Continue to make your [RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md).  (Keep adding to your original project.  Which also means you need to update your pseudocode and maintenance log.)  You will have a player who has health (or hit) points and damage points.  The health (hit) points are for how much health the player has and the damage points are for how much damage the player can inflict on a non-player character (NPC).
+Continue to make your [RPG](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/RPG_Requirements.md).  (Keep adding to your original project.  Which also means you need to update your pseudocode and maintenance log.)  You will have a player who has health (or hit) points and damage points.  The health (hit) points are for how much health the player has and the damage points are for how much damage the player can inflict on a non-player character (NPC).
 
 Below is some pseudocode to help you with your coding.  (The pseudocode is also the requirements for the program so far.)
 
@@ -25,7 +25,7 @@ Write a program that gives a student a programming quiz.  Get the name of the st
 
 Write a short choose your own adventure story.  You must address the user by name and tell the story from the user’s perspective.  You must give the user at least 3 places where the story will branch.  The story will branch based on the user giving string input in at least two places and the story will branch based on int input in at least one input (minimum of three branching options).  Make sure that you have appropriate endings at all 9 (minimum) branch endings, which means at least two levels of nesting.  (The adventure does not need to be complicated.)  [_**Note**: This program is to demonstrate nesting.  You can have 2 levels with 3 possible choices at each level (giving 9 endings).  Or you can have 3 levels with 2 possible choices at each level (giving 8 endings), but at least one of your choices will have 3 possible choices (giving the required 9 endings)._]
 
-**Problem GS03-05 (ACSII Art) ([pair programming](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/PairProgramming.md))**
+**Problem GS03-05 (ACSII Art) ([pair programming](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/PairProgramming.md))**
 
 Write a program that gives the user three choices of ASCII art.  Display the art (which can be animated) that the user chooses.  If you decide to use other people’s art, give them credit by citing the source for the user (not just in the comments).  As an extension, use strings to make and output your ASCII art.
 
@@ -35,4 +35,4 @@ Create a maze.  The maze looks like the picture below, but you need not have a g
 
 We have not yet covered loops, so you must use nested branching.  Be aware that there are three or more levels of nesting.  Also, make sure that the user is able to take every path to the very end (even if it is a dead end).
 
-![picture](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/CPPMaze.png)
+![picture](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpMaze.png)
