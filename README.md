@@ -44,4 +44,4 @@ The game engine tutorial is an [SFML](https://www.sfml-dev.org/) project, and is
 
 By the way, here is the cover of my book.  (It is a link that I suppose could be considered an ad.)
 
-[![C++ with Miyoshi book cover](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpWithMiyoshiCover.jpg)](https://amzn.to/3bQuePT)
+[![C# with Miyoshi book cover](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpWithMiyoshi.jpg)](https://amzn.to/3q6Y7E5)
