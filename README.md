@@ -1,7 +1,7 @@
 # CSharpWithMiyoshi
-This is the companion repo for my book <a href="" target="_blank"><i>C# with Miyoshi</i></a>.  (This whole repo is still a work in progress.  The book is not yet available on Amazon, so the links to the book do not work yet.  There are things that need updating.  And I have a few references to C++, that are there until I get the C# ones done.  But I needed to get it going because school starts soon and I need to have it ready to go even if it is not completely ready to go.)
+This is the companion repo for my book <a href="https://amzn.to/3q6Y7E5" target="_blank"><i>C# with Miyoshi</i></a>.  (This whole repo is still a work in progress.  The book is not yet available on Amazon, so the links to the book do not work yet.  There are things that need updating.  And I have a few references to C++, that are there until I get the C# ones done.  But I needed to get it going because school starts soon and I need to have it ready to go even if it is not completely ready to go.)
 
-I provide my book, <a href="" target="_blank"><i>C# with Miyoshi</i></a>, to the students in my class, but to those who are not in my class, the book is available online at either of the above links.  (I suppose you could call this an ad.)
+I provide my book, <a href="https://amzn.to/3q6Y7E5" target="_blank"><i>C# with Miyoshi</i></a>, to the students in my class, but to those who are not in my class, the book is available online at either of the above links.  (I suppose you could call this an ad.)
 
 This repo will change and grow in time with feedback from my students and other readers.
 
@@ -44,4 +44,4 @@ The game engine tutorial is an [SFML](https://www.sfml-dev.org/) project, and is
 
 By the way, here is the cover of my book.  (It is a link that I suppose could be considered an ad.)
 
-[![C++ with Miyoshi book cover](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/CPPwithMiyoshiCover.jpg)](https://amzn.to/3bQuePT)
+[![C++ with Miyoshi book cover](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpWithMiyoshiCover.jpg)](https://amzn.to/3bQuePT)
