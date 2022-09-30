@@ -10,7 +10,7 @@ Start with the example code given and create your own math problems.  Make sure 
 
 **Problem GS02-03 (dice and other random numbers)**
 
-Generate random numbers.  You want to simulate a 6-sided die (numbers 1-6), a 12-sided die.  Also generate a random double between 0.0 and 5.0 (inclusive), and a random character of UPPER CASE letters (A-Z, inclusive).  Your output should be labeled and have only one random output per line.  (You should have 4 lines of output.)
+Generate random numbers.  You want to simulate a 6-sided die (numbers 1-6), a 12-sided die.  Also generate a random double between 0.0 and 5.0 (exclusive), and a random character of UPPER CASE letters (A-Z, inclusive).  Your output should be labeled and have only one random output per line.  (You should have 4 lines of output.)
 
 **Problem GS02-04 (More random stuff) ([pair programming](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/PairProgramming.md))**
 
