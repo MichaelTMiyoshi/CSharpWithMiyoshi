@@ -63,7 +63,7 @@ Write a program that gives the user 3 choices of ASCII art and animation (you ne
 
 Create a new maze.  The maze will have the same exact pattern as that from GS03-05, but the doors do not close behind the user.  Instead of using all the code from the old program and trying to modify it, it is easier to start the code from scratch with an overarching loop and branching for each room.
 
-![picture](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/images/CSharpMaze.png)
+![picture](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/main/images/CSharpMaze.png)
 
 **Problem GS04-06 ([RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md)  game loop and main menu)**
 
