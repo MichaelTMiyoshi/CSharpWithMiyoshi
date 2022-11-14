@@ -32,8 +32,29 @@ Since Roman numerals only have a maximum of 3 repeating "digits," you need a way
 
 **Problem GS04-03 (Count characters in a String)**
 
-Write a program that gets user input into a string and then counts certain characters.  When you get input from the user, you need to make sure that you can get whitespace characters.  (The user will end the input by pressing a tilde (~) followed by the <ENTER> key.  Or you can try to use a different character like the <ESC> key.)  Once the input is obtained, the application will count the number of spaces, tabs, newlines, and numbers (digits).  You do not need to determine the amount of each digit, just the total number of digits in the input.  Output the data in a readable format.  [Hint: remember that this is a looping problem and that there is example code to get you started.]
+Write a program that gets user input into a string and then counts certain characters.  When you get input from the user, you need to make sure that you can get whitespace characters.  (The user will end the input by pressing the <ESCAPE> key.  Or you can try to use a different character like the <ESC> key.)  Once the input is obtained, the application will count the number of spaces, tabs, newlines, and numbers (digits).  You do not need to determine the amount of each digit, just the total number of digits in the input.  Output the data in a readable format.  [Hint: remember that this is a looping problem and that there is example code to get you started.]  
 
+Use the code below to get the input from the user.
+
+```
+do
+{
+   key = Console.ReadKey();
+   if (key.Key != ConsoleKey.Escape)
+   {
+      if(key.Key == ConsoleKey.Enter)
+      {
+         test += "\n";
+         Console.WriteLine();
+      }
+      else
+      {
+         test += Convert.ToChar(key.KeyChar);
+      }
+   }
+} while (key.Key != ConsoleKey.Escape);
+```
+  
 **Problem GS04-04 (ASCII art and animation) ([pair programming](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/PairProgramming.md))**
 
 Write a program that gives the user 3 choices of ASCII art and animation (you need to have at least one animation).  The user will choose between the three animations or exiting.  Only exit when the user chooses.  Give an error message when the user chooses something not on the menu.
