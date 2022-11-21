@@ -37,6 +37,9 @@ Write a program that gets user input into a string and then counts certain chara
 Use the code below to get the input from the user.
 
 ```
+String test = "";
+ConsoleKeyInfo key;
+
 do
 {
    key = Console.ReadKey();
