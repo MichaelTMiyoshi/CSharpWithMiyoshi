@@ -123,9 +123,9 @@ Middle name: Richard			Output: Richa
 
 ### CT – Functions
 
-Demonstrate your competence in using functions by creating a function (or function prototype) for **each** of the following scenarios:
+Demonstrate your competence in using functions by creating a function (or function signature) for **each** of the following scenarios:
 
-1.	Create a function prototype for a function that will not return a value and takes 3 int arguments.
+1.	Create a function signature for a function that will not return a value and takes 3 int arguments.
 
 2.	Create a function that takes in two int values and returns the LOWER value.
 
