@@ -2,7 +2,7 @@
 
 Williams Game Engine (Part 1)
 
-Make sure to clone the [Williams Game Engine tutorial](https://github.com/MichaelTMiyoshi/WilliamsGameEngine.CSharp) and follow the tutorial.  Completing the different sections of the tutorial are the tasks for the goal sheet.
+Make sure to fork the [Williams Game Engine tutorial](https://github.com/MichaelTMiyoshi/WilliamsGameEngine.CSharp)  (as described in that repository's readme) and follow the tutorial.  Completing the different sections of the tutorial are the tasks for the goal sheet.
 
 **Sprite**
 
