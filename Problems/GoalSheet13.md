@@ -12,7 +12,7 @@ Make the ship sprite appear on the screen.
 
 Make the ship move using the arrow keys.  Note.  You may change the keys the user uses to move.
 
-**Shooting**
+**Shoot Lasers from the Ship**
 
 Shoot lasers from the ship.  These will be used later to destroy the meteors that fly across the screen.
 
