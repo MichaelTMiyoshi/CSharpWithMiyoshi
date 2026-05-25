@@ -26,7 +26,7 @@ c =       0
   Console.WriteLine($"{x} {y} {z}");
 ```
 
-Modify the code so that each number is on its own line.  Also, line up the decimal points and ensure that there are 7 digits (or spaces) to the left of the decimal point.  Also, make sure that you output 3 digits after the decimal point.  Your output should look like the following:
+Modify the code so that each number is on its own line.  Line up the decimal points and ensure that there are 7 digits (or spaces) to the left of the decimal point.  Also, make sure that you output 3 digits after the decimal point.  Your output should look like the following:
 
 ```
       1.001
